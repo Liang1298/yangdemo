@@ -1,8 +1,8 @@
 const textConfig = {
-  text1: "Hi bé!",
-  text2: "Bé đừng giận a nữaaaaa",
+  text1: "Hi e!",
+  text2: "E đừng giận a nữa nhaaa",
   text3: "Đừng cho a vào black list nhaaaa",
-  text4: "Nếu bé ko trả lời mà thoát ra tức là đồng ý rùi đó nha :v",
+  text4: "Nếu e ko trả lời mà thoát ra tức là đồng ý rùi đó nha :v",
   text5: "Nooooooo",
   text6: "Okeeeeee",
   //text7: "lí do cậu thích tớ đi :vvvv",
